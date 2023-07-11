@@ -8,7 +8,7 @@
          "aykhan_s",
          "RoBotlarimTg"
       ],   
-   "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/sjrvan/Etiraf",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
