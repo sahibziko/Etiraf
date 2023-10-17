@@ -24,7 +24,7 @@ API_ID = int(os.environ.get("2219492"))
 API_HASH = os.environ.get("e2714facad4b32d083303781af4d5029")
 BOT_TOKEN = os.environ.get("TOKEN")
 # Telethon 
-client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
+client = TelegramClient('client', API_ID, API_HASH).start(bot_token=bot_token)
 #
 ADMIN_QRUP_qrup = int(os.environ.get("ADMIN_QRUP"))
 ETIRAF_QRUP = int(os.environ.get("ETIRAF_QRUP"))
